@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/bxcodec/faker/v3"
+	"github.com/go-faker/faker/v4"
 )
 
 type Person struct{
